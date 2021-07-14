@@ -1,0 +1,38 @@
+.row {
+  margin-top: 150px;
+}
+h1 {
+  font-size: 70px;
+  color: #1877f2;
+  font-weight: 400px;
+}
+input {
+  margin-top: 10px;
+}
+button {
+  margin-top: 10px;
+}
+form {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+}
+body {
+  background-color: whitesmoke;
+}
+a {
+  display: block;
+  margin-top: 10px;
+}
+.btn-success {
+  display: block !important;
+  margin-left: 70px;
+  border-radius: 10px;
+}
+.btn-primary {
+  display: block;
+  width: 252px;
+}
+.l {
+  font-size: 32px;
+}
